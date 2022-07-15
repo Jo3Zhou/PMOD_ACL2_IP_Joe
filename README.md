@@ -1,7 +1,7 @@
 # PMOD_ACL2_IP_Joe
 PMOD_ACL2_IP_Joe
 A PMOD ACL2 ip without FIFO/brust read
-Simple write & read
+Simple write & read with SPI protocol
 
 Port: 
 input:  spi_clk, miso
